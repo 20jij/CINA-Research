@@ -1,0 +1,1 @@
+https://github.com/ofirdagan/cross-domain-local-storage

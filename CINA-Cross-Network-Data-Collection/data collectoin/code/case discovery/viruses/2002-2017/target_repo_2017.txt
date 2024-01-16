@@ -1,0 +1,4 @@
+https://github.com/hashicorp/vagrant-plugin-changelog/blob/master/vagrant-vmware-changelog.md
+https://github.com/cisco/node-jose
+https://github.com/PHPMailer/PHPMailer
+https://github.com/DSB/MySQLDumper

@@ -1,0 +1,5 @@
+https://github.com/silverstripe/silverstripe-framework
+https://github.com/d00rt/pedicom
+https://github.com/Netflix/security-bulletins/blob/master/advisories/third-party/2019-002.md
+https://github.com/Azure/azure-umqtt-c
+https://github.com/typestack/class-validator#passing-options

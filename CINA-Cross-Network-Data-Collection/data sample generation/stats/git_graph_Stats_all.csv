@@ -1,0 +1,2 @@
+year,git_nodes,git_edges,stack_nodes_hop_1,stack_edges_hop_1,stack_cross_edges_hop_1,stack_nodes_hop_2,stack_edges_hop_2,stack_cross_edges_hop_2,stack_nodes_hop_3,stack_edges_hop_3,stack_cross_edges_hop_3
+all,19597,15365,31927,17324,14795,70449,56980,14795,181882,173594,14795

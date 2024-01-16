@@ -1,0 +1,7 @@
+https://github.com/torvalds/linux/commit/6c4841c2b6c32a134f9f36e5e08857138cc12b10
+https://github.com/phpsysinfo/phpsysinfo/issues/368#issuecomment-1380842745
+https://github.com/advisories/GHSA-2wxv-3g4v-p76p
+https://github.com/openexr/openexr/issues/564
+https://github.com/wp-plugins/subscribe-to-comments/releases/tag/2.0.8
+https://github.com/wp-plugins/subscribe-to-comments/commit/9683bdf462fcac2f32b33be98f0b96497fbd1bb6
+https://github.com/torvalds/linux/commit/4dcc29e1574d88f4465ba865ed82800032f76418

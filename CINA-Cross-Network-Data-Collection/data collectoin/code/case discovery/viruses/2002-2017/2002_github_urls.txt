@@ -1,0 +1,5 @@
+https://github.com/bminor/glibc/commit/2864e767053317538feafa815046fff89e5a16be#diff-94e8c502f255fdfc346df0e29fd4ef40
+https://github.com/krb5/krb5/commit/cf1a0c411b2668c57c41e9c4efd15ba17b6b322c
+https://github.com/Balasys/dheater
+https://github.com/KDE/kde1-kdebase/commit/04906bd5de2f220bf100b605dad37b4a1d9a91a6
+https://github.com/mozilla/ssl-config-generator/issues/162

@@ -1,0 +1,10 @@
+http://github.com/sstephenson/prototype/blob/master/CHANGELOG
+https://github.com/iGamingModules/flashgames/commit/6e57683704885be32eea2ea614f80c9bb8f012c5
+https://github.com/cfire24/ajaxlife/commit/9fb53b67312fe3f4336e01c1e3e1bedb4be0c1c8
+https://github.com/PHPMailer/PHPMailer/commit/8beacc646acb67c995aea10ac5585970efc7355a
+http://github.com/rails/rails/commit/7282ed863ca7e6f928bae9162c9a63a98775a19d
+https://github.com/drupalprojects/email_registration/commit/126c141b7db038c778a2dc931d38766aad8d1112
+https://github.com/drupalprojects/email_registration/releases/tag/6.x-1.0
+http://github.com/Illydth/wowraidmanager/commit/7dd6367ae85003dd5d715431b6ab695f2c2f200a
+https://github.com/torvalds/linux/commit/124d3b7041f9a0ca7c43a6293e1cae4576c32fd5
+https://github.com/cfire24/ajaxlife/releases/tag/0.3.3
